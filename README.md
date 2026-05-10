@@ -1,2 +1,2 @@
 # Jenkins-Pipeline
-Testing auto trigger 2
+Testing auto trigger 3
